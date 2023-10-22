@@ -1,0 +1,94 @@
+
+body {
+	background-color: black;
+	color : white;
+	font-family: courier;
+	font-: 200;
+}
+h1 {
+	color : F1EFEF;
+	font-family: lora;
+	font-size: 50px;
+	font-weight: 400;
+}
+p {
+	color: F1EFEF;
+	font-size: 20px;
+	letter-spacing: 1px;
+}
+ul, h2 {
+	font-size: 30px;
+	color: #62ac7d;
+}
+li,a {
+	font-size: 20px;
+	color: #c981f4;
+	text-decoration: none;
+}
+li {
+	list-style: none;
+}
+a:hover {
+	color: white;
+}
+div {
+	background-color: black;
+	border: 2px slategrey;
+}
+.tete {
+	text-align: center;
+}
+.tete img .tete center {
+	display: inline-block;
+	vertical-align: middle;
+}
+.MOI {
+	border-radius: 50%;
+	position: relative;
+	left: 350px;
+}
+.Basketball {
+	height: 200px;
+	width: 1200px;
+	margin: 10px;
+	padding: 0px;
+	border: solid rgb(60, 60, 60, 1.0);
+	border-radius: 20px;
+	background-color: rgb(60, 60, 60, 1.0);
+}
+.Football {
+	height: 200px;
+	width: 1200px;
+	margin: 10px;
+	padding: 0px;
+	border: solid rgb(60, 60, 60, 1.0);
+	border-radius: 20px;
+	background-color: rgb(60, 60, 60, 1.0);
+}
+.Handball {
+	height: 200px;
+	width: 1200px;
+	margin: 10px;
+	padding: 0px;
+	border: solid rgb(60, 60, 60, 1.0);
+	border-radius: 20px;
+	background-color: rgb(60, 60, 60, 1.0);
+}
+.Follow {
+	height: 200px;
+	width: 1200px;
+	margin: 10px;
+	padding: 0px;
+	border: solid rgb(60, 60, 60, 1.0);
+	border-radius: 20px;
+	background-color: rgb(60, 60, 60, 1.0);
+}
+.reseaux {
+	list-style: none;
+	display: inline;
+}
+@media (max width: 760px) {
+	.div {
+		width: 500px
+	}
+}
